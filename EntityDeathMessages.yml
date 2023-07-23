@@ -4,7 +4,7 @@
 #
 # Entity Death Messages Config
 # This config lets you configure death messages of mobs. (I.E: Enderdragon,
-#
+# a change
 #Placeholders:
 # %killer% - returns the player name
 # %killer_display% - returns the custom display name of the player
