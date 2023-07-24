@@ -175,11 +175,11 @@ Mobs:
   elderguardian:
     Solo:
       Projectile-Arrow:
-        - "%player%被%killer%使用%weapon%用某种方式射杀"
+        - "%player%被%killer%使用%weapon%以某种方式射杀"
       Weapon:
-        - "%player% was slain by a %killer% somehow using %weapon%"
+        - "%player%被%killer%使用%weapon%以某种方式杀死"
       Melee:
-        - "%player% was slain by a %killer%"
+        - "%player%被%killer%真实"
     Gang:
       Projectile-Arrow:
         - "%player% was ganged up on by some %killer%! One shot them with %weapon%"
@@ -194,7 +194,7 @@ Mobs:
       Weapon:
         - "%player% was slain by a %killer% somehow using %weapon%"
       Melee:
-        - "%player% was slain by a %killer%"
+        - "%player%被%killer%杀死"
     Gang:
       Projectile-Arrow:
         - "%player% was ganged up on by some %killer%! One shot them with %weapon%"
@@ -209,7 +209,7 @@ Mobs:
       Weapon:
         - "%player% was slain by a %killer% somehow using %weapon%"
       Melee:
-        - "%player% was slain by a %killer%"
+        - "%player%被%killer%杀死"
     Gang:
       Projectile-Arrow:
         - "%player% was ganged up on by some %killer%! One shot them with %weapon%"
@@ -224,7 +224,7 @@ Mobs:
       Weapon:
         - "%player% was slain by a %killer% somehow using %weapon%"
       Melee:
-        - "%player% was slain by a %killer%"
+        - "%player%被%killer%杀死"
     Gang:
       Projectile-Arrow:
         - "%player% was ganged up on by some %killer%! One shot them with %weapon%"
@@ -239,7 +239,7 @@ Mobs:
       Weapon:
         - "%player% was slain by a %killer% somehow using %weapon%"
       Melee:
-        - "%player% was slain by a %killer%"
+        - "%player%被%killer%杀死"
     Gang:
       Projectile-Arrow:
         - "%player% was ganged up on by some %killer%! One shot them with %weapon%"
@@ -254,7 +254,7 @@ Mobs:
       Weapon:
         - "%player% was slain by a %killer% somehow using %weapon%"
       Melee:
-        - "%player% was slain by a %killer%"
+        - "%player%被%killer%杀死"
     Gang:
       Projectile-Arrow:
         - "%player% was ganged up on by some %killer%! One shot them with %weapon%"
@@ -269,7 +269,7 @@ Mobs:
       Weapon:
         - "%player% was slain by a %killer% somehow using %weapon%"
       Melee:
-        - "%player% was slain by a %killer%"
+        - "%player%被%killer%杀死"
     Gang:
       Projectile-Arrow:
         - "%player% was ganged up on by some %killer%! One shot them with %weapon%"
@@ -284,7 +284,7 @@ Mobs:
       Weapon:
         - "%player% was slain by a %killer% somehow using %weapon%"
       Melee:
-        - "%player% was slain by a %killer%"
+        - "%player%被%killer%杀死"
     Gang:
       Projectile-Arrow:
         - "%player% was ganged up on by some %killer%! One shot them with %weapon%"
@@ -299,7 +299,7 @@ Mobs:
       Weapon:
         - "%player% was slain by a %killer% somehow using %weapon%"
       Melee:
-        - "%player% was slain by a %killer%"
+        - "%player%被%killer%杀死"
     Gang:
       Projectile-Arrow:
         - "%player% was ganged up on by some %killer%! One shot them with %weapon%"
@@ -314,7 +314,7 @@ Mobs:
       Weapon:
         - "%player% was slain by a %killer% somehow using %weapon%"
       Melee:
-        - "%player% was slain by a %killer%"
+        - "%player%被%killer%杀死"
     Gang:
       Projectile-Arrow:
         - "%player% was ganged up on by some %killer%! One shot them with %weapon%"
@@ -331,7 +331,7 @@ Mobs:
       Weapon:
         - "%player% was slain by a %killer% somehow using %weapon%"
       Melee:
-        - "%player% was slain by a %killer%"
+        - "%player%被%killer%杀死"
     Gang:
       Projectile-Arrow:
         - "%player% was ganged up on by some %killer%! One shot them with %weapon%"
@@ -346,7 +346,7 @@ Mobs:
       Weapon:
         - "%player% was slain by a %killer% somehow using %weapon%"
       Melee:
-        - "%player% was slain by a %killer%"
+        - "%player%被%killer%杀死"
     Gang:
       Projectile-Arrow:
         - "%player% was ganged up on by some %killer%! One shot them with %weapon%"
@@ -361,7 +361,7 @@ Mobs:
       Weapon:
         - "%player% was slain by a %killer% somehow using %weapon%"
       Melee:
-        - "%player% was slain by a %killer%"
+        - "%player%被%killer%杀死"
     Gang:
       Projectile-Arrow:
         - "%player% was ganged up on by some %killer%! One shot them with %weapon%"
@@ -376,7 +376,7 @@ Mobs:
       Weapon:
         - "%player% was slain by a %killer% somehow using %weapon%"
       Melee:
-        - "%player% was slain by a %killer%"
+        - "%player%被%killer%杀死"
     Gang:
       Projectile-Arrow:
         - "%player% was ganged up on by some %killer%! One shot them with %weapon%"
@@ -391,9 +391,9 @@ Mobs:
       Weapon:
         - "%player% was slain by a %killer% somehow using %weapon%"
       Explosion:
-        - "%player% was blown up by a %killer%"
+        - "%player%尝试与%killer%贴贴"
       Melee:
-        - "%player% was slain by a %killer%"
+        - "%player%被%killer%杀死"
     Gang:
       Projectile-Arrow:
         - "%player% was ganged up on by some %killer%! One shot them with %weapon%"
@@ -404,11 +404,11 @@ Mobs:
   skeleton:
     Solo:
       Projectile-Arrow:
-        - "%player% was shot by a %killer% somehow using %weapon%"
+        - "%player%被%killer%使用%weapon%射杀"
       Weapon:
         - "%player% was slain by a %killer% somehow using %weapon%"
       Melee:
-        - "%player% was slain by a %killer%"
+        - "%player%被%killer%杀死"
     Gang:
       Projectile-Arrow:
         - "%player% was ganged up on by some %killer%! One shot them with %weapon%"
@@ -423,7 +423,7 @@ Mobs:
       Weapon:
         - "%player% was slain by a %killer% somehow using %weapon%"
       Melee:
-        - "%player% was slain by a %killer%"
+        - "%player%被%killer%缠住"
     Gang:
       Projectile-Arrow:
         - "%player% was ganged up on by some %killer%! One shot them with %weapon%"
@@ -438,7 +438,7 @@ Mobs:
       Weapon:
         - "%player% was slain by a %killer% somehow using %weapon%"
       Melee:
-        - "%player% was slain by a %killer%"
+        - "%player%被%killer%压扁"
     Gang:
       Projectile-Arrow:
         - "%player% was ganged up on by some %killer%! One shot them with %weapon%"
@@ -453,7 +453,7 @@ Mobs:
       Weapon:
         - "%player% was slain by a %killer% somehow using %weapon%"
       Melee:
-        - "%player% was slain by a %killer%"
+        - "%killer%的按摩对于%player%似乎有点重"
     Gang:
       Projectile-Arrow:
         - "%player% was ganged up on by some %killer%! One shot them with %weapon%"
@@ -468,7 +468,7 @@ Mobs:
       Weapon:
         - "%player% was slain by a %killer% somehow using %weapon%"
       Melee:
-        - "%player% was slain by a %killer%"
+        - "%player%尝试大战%killer%"
     Gang:
       Projectile-Arrow:
         - "%player% was ganged up on by some %killer%! One shot them with %weapon%"
@@ -483,7 +483,7 @@ Mobs:
       Weapon:
         - "%player% was slain by a %killer% somehow using %weapon%"
       Melee:
-        - "%player% was slain by a %killer%"
+        - "%player%被%killer%杀死"
     Gang:
       Projectile-Arrow:
         - "%player% was ganged up on by some %killer%! One shot them with %weapon%"
@@ -498,7 +498,7 @@ Mobs:
       Weapon:
         - "%player% was slain by a %killer% somehow using %weapon%"
       Melee:
-        - "%player% was slain by a %killer%"
+        - "%player%被%killer%杀死"
     Gang:
       Projectile-Arrow:
         - "%player% was ganged up on by some %killer%! One shot them with %weapon%"
@@ -513,7 +513,7 @@ Mobs:
       Weapon:
         - "%player% was slain by a %killer% somehow using %weapon%"
       Melee:
-        - "%player% was slain by a %killer%"
+        - "%player%被%killer%杀死"
     Gang:
       Projectile-Arrow:
         - "%player% was ganged up on by some %killer%! One shot them with %weapon%"
@@ -528,7 +528,7 @@ Mobs:
       Weapon:
         - "%player% was slain by a %killer% somehow using %weapon%"
       Melee:
-        - "%player% was slain by a %killer%"
+        - "%player%被%killer%杀死"
     Gang:
       Projectile-Arrow:
         - "%player% was ganged up on by some %killer%! One shot them with %weapon%"
@@ -543,7 +543,7 @@ Mobs:
       Weapon:
         - "%player% was slain by a %killer% somehow using %weapon%"
       Melee:
-        - "%player% was slain by a %killer%"
+        - "%player%被%killer%杀死"
     Gang:
       Projectile-Arrow:
         - "%player% was ganged up on by some %killer%! One shot them with %weapon%"
@@ -558,7 +558,7 @@ Mobs:
       Weapon:
         - "%player% was slain by a %killer% somehow using %weapon%"
       Melee:
-        - "%player% was slain by a %killer%"
+        - "%player%被%killer%杀死"
     Gang:
       Projectile-Arrow:
         - "%player% was ganged up on by some %killer%! One shot them with %weapon%"
@@ -573,7 +573,7 @@ Mobs:
       Weapon:
         - "%player% was slain by a %killer% somehow using %weapon%"
       Melee:
-        - "%player% was slain by a %killer%"
+        - "%player%被%killer%杀死"
     Gang:
       Projectile-Arrow:
         - "%player% was ganged up on by some %killer%! One shot them with %weapon%"
@@ -588,7 +588,7 @@ Mobs:
       Weapon:
         - "%player% was slain by a %killer% somehow using %weapon%"
       Melee:
-        - "%player% was slain by a %killer%"
+        - "%player%被%killer%杀死"
     Gang:
       Projectile-Arrow:
         - "%player% was ganged up on by some %killer%! One shot them with %weapon%"
@@ -607,7 +607,7 @@ Mobs:
       Projectile-Fireball:
         - "%player% died to a wither skull"
       Melee:
-        - "%player% was slain by a %killer%"
+        - "%player%被%killer%杀死"
     Gang:
       Projectile-Arrow:
         - "%player% was ganged up on by some %killer%! One shot them with %weapon%"
@@ -622,7 +622,7 @@ Mobs:
       Weapon:
         - "%player% was slain by a %killer% somehow using %weapon%"
       Melee:
-        - "%player% was slain by a %killer%"
+        - "%player%被%killer%杀死"
     Gang:
       Projectile-Arrow:
         - "%player% was ganged up on by some %killer%! One shot them with %weapon%"
@@ -637,7 +637,7 @@ Mobs:
       Weapon:
         - "%player% was slain by a %killer% somehow using %weapon%"
       Melee:
-        - "%player% was slain by a %killer%"
+        - "%player%被%killer%杀死"
     Gang:
       Projectile-Arrow:
         - "%player% was ganged up on by some %killer%! One shot them with %weapon%"
@@ -652,7 +652,7 @@ Mobs:
       Weapon:
         - "%player% was slain by a %killer% somehow using %weapon%"
       Melee:
-        - "%player% was slain by a %killer%"
+        - "%player%被%killer%杀死"
     Gang:
       Projectile-Arrow:
         - "%player% was ganged up on by some %killer%! One shot them with %weapon%"
@@ -667,7 +667,7 @@ Mobs:
       Weapon:
         - "%player% was slain by a %killer% somehow using %weapon%"
       Melee:
-        - "%player% was slain by a %killer%"
+        - "%player%被%killer%杀死"
     Gang:
       Projectile-Arrow:
         - "%player% was ganged up on by some %killer%! One shot them with %weapon%"
@@ -682,7 +682,7 @@ Mobs:
       Weapon:
         - "%player% was slain by a %killer% somehow using %weapon%"
       Melee:
-        - "%player% was slain by a %killer%"
+        - "%player%被%killer%杀死"
     Gang:
       Projectile-Arrow:
         - "%player% was ganged up on by some %killer%! One shot them with %weapon%"
@@ -697,7 +697,7 @@ Mobs:
       Weapon:
         - "%player% was slain by a %killer% somehow using %weapon%"
       Melee:
-        - "%player% was slain by a %killer%"
+        - "%player%被%killer%杀死"
     Gang:
       Projectile-Arrow:
         - "%player% was ganged up on by some %killer%! One shot them with %weapon%"
@@ -712,7 +712,7 @@ Mobs:
       Weapon:
         - "%player% was slain by a %killer% somehow using %weapon%"
       Melee:
-        - "%player% was slain by a %killer%"
+        - "%player%被%killer%杀死"
     Gang:
       Projectile-Arrow:
         - "%player% was ganged up on by some %killer%! One shot them with %weapon%"
@@ -727,7 +727,7 @@ Mobs:
       Weapon:
         - "%player% was slain by a %killer% somehow using %weapon%"
       Melee:
-        - "%player% was slain by a %killer%"
+        - "%player%被%killer%杀死"
     Gang:
       Projectile-Arrow:
         - "%player% was ganged up on by some %killer%! One shot them with %weapon%"
@@ -742,7 +742,7 @@ Mobs:
       Weapon:
         - "%player% was slain by a %killer% somehow using %weapon%"
       Melee:
-        - "%player% was slain by a %killer%"
+        - "%player%被%killer%杀死"
     Gang:
       Projectile-Arrow:
         - "%player% was ganged up on by some %killer%! One shot them with %weapon%"
@@ -757,7 +757,7 @@ Mobs:
       Weapon:
         - "%player% was slain by a %killer% somehow using %weapon%"
       Melee:
-        - "%player% was slain by a %killer%"
+        - "%player%被%killer%杀死"
     Gang:
       Projectile-Arrow:
         - "%player% was ganged up on by some %killer%! One shot them with %weapon%"
@@ -772,7 +772,7 @@ Mobs:
       Weapon:
         - "%player% was slain by a %killer% somehow using %weapon%"
       Melee:
-        - "%player% was slain by a %killer%"
+        - "%player%被%killer%杀死"
     Gang:
       Projectile-Arrow:
         - "%player% was ganged up on by some %killer%! One shot them with %weapon%"
@@ -787,7 +787,7 @@ Mobs:
       Weapon:
         - "%player% was slain by a %killer% somehow using %weapon%"
       Melee:
-        - "%player% was slain by a %killer%"
+        - "%player%被%killer%杀死"
     Gang:
       Projectile-Arrow:
         - "%player% was ganged up on by some %killer%! One shot them with %weapon%"
@@ -802,7 +802,7 @@ Mobs:
       Weapon:
         - "%player% was slain by a %killer% somehow using %weapon%"
       Melee:
-        - "%player% was slain by a %killer%"
+        - "%player%被%killer%杀死"
     Gang:
       Projectile-Arrow:
         - "%player% was ganged up on by some %killer%! One shot them with %weapon%"
@@ -817,7 +817,7 @@ Mobs:
       Weapon:
         - "%player% was slain by a %killer% somehow using %weapon%"
       Melee:
-        - "%player% was slain by a %killer%"
+        - "%player%被%killer%杀死"
     Gang:
       Projectile-Arrow:
         - "%player% was ganged up on by some %killer%! One shot them with %weapon%"
@@ -832,7 +832,7 @@ Mobs:
       Weapon:
         - "%player% was slain by a %killer% somehow using %weapon%"
       Melee:
-        - "%player% was slain by a %killer%"
+        - "%player%被%killer%杀死"
     Gang:
       Projectile-Arrow:
         - "%player% was ganged up on by some %killer%! One shot them with %weapon%"
@@ -847,7 +847,7 @@ Mobs:
       Weapon:
         - "%player% was slain by a %killer% somehow using %weapon%"
       Melee:
-        - "%player% was slain by a %killer%"
+        - "%player%被%killer%杀死"
     Gang:
       Projectile-Arrow:
         - "%player% was ganged up on by some %killer%! One shot them with %weapon%"
@@ -862,7 +862,7 @@ Mobs:
       Weapon:
         - "%player% was slain by a %killer% somehow using %weapon%"
       Melee:
-        - "%player% was slain by a %killer%"
+        - "%player%被%killer%杀死"
     Gang:
       Projectile-Arrow:
         - "%player% was ganged up on by some %killer%! One shot them with %weapon%"
@@ -877,7 +877,7 @@ Mobs:
       Weapon:
         - "%player% was slain by a %killer% somehow using %weapon%"
       Melee:
-        - "%player% was slain by a %killer%"
+        - "%player%被%killer%杀死"
     Gang:
       Projectile-Arrow:
         - "%player% was ganged up on by some %killer%! One shot them with %weapon%"
@@ -892,7 +892,7 @@ Mobs:
       Weapon:
         - "%player% was slain by a %killer% somehow using %weapon%"
       Melee:
-        - "%player% was slain by a %killer%"
+        - "%player%被%killer%杀死"
     Gang:
       Projectile-Arrow:
         - "%player% was ganged up on by some %killer%! One shot them with %weapon%"
@@ -907,7 +907,7 @@ Mobs:
       Weapon:
         - "%player% was slain by a %killer% somehow using %weapon%"
       Melee:
-        - "%player% was slain by a %killer%"
+        - "%player%被%killer%杀死"
     Gang:
       Projectile-Arrow:
         - "%player% was ganged up on by some %killer%! One shot them with %weapon%"
@@ -922,7 +922,7 @@ Mobs:
       Weapon:
         - "%player% was slain by a %killer% somehow using %weapon%"
       Melee:
-        - "%player% was slain by a %killer%"
+        - "%player%被%killer%杀死"
     Gang:
       Projectile-Arrow:
         - "%player% was ganged up on by some %killer%! One shot them with %weapon%"
@@ -937,7 +937,7 @@ Mobs:
       Weapon:
         - "%player% was slain by a %killer% somehow using %weapon%"
       Melee:
-        - "%player% was slain by a %killer%"
+        - "%player%被%killer%杀死"
     Gang:
       Projectile-Arrow:
         - "%player% was ganged up on by some %killer%! One shot them with %weapon%"
@@ -952,7 +952,7 @@ Mobs:
       Weapon:
         - "%player% was slain by a %killer% somehow using %weapon%"
       Melee:
-        - "%player% was slain by a %killer%"
+        - "%player%被%killer%杀死"
     Gang:
       Projectile-Arrow:
         - "%player% was ganged up on by some %killer%! One shot them with %weapon%"
@@ -967,7 +967,7 @@ Mobs:
       Weapon:
         - "%player% was slain by a %killer% somehow using %weapon%"
       Melee:
-        - "%player% was slain by a %killer%"
+        - "%player%被%killer%杀死"
     Gang:
       Projectile-Arrow:
         - "%player% was ganged up on by some %killer%! One shot them with %weapon%"
@@ -982,7 +982,7 @@ Mobs:
       Weapon:
         - "%player% was slain by a %killer% somehow using %weapon%"
       Melee:
-        - "%player% was slain by a %killer%"
+        - "%player%被%killer%杀死"
     Gang:
       Projectile-Arrow:
         - "%player% was ganged up on by some %killer%! One shot them with %weapon%"
@@ -997,7 +997,7 @@ Mobs:
       Weapon:
         - "%player% was slain by a %killer% somehow using %weapon%"
       Melee:
-        - "%player% was slain by a %killer%"
+        - "%player%被%killer%杀死"
     Gang:
       Projectile-Arrow:
         - "%player% was ganged up on by some %killer%! One shot them with %weapon%"
@@ -1012,7 +1012,7 @@ Mobs:
       Weapon:
         - "%player% was slain by a %killer% somehow using %weapon%"
       Melee:
-        - "%player% was slain by a %killer%"
+        - "%player%被%killer%杀死"
     Gang:
       Projectile-Arrow:
         - "%player% was ganged up on by some %killer%! One shot them with %weapon%"
@@ -1027,7 +1027,7 @@ Mobs:
       Weapon:
         - "%player% was slain by a %killer% somehow using %weapon%"
       Melee:
-        - "%player% was slain by a %killer%"
+        - "%player%被%killer%杀死"
     Gang:
       Projectile-Arrow:
         - "%player% was ganged up on by some %killer%! One shot them with %weapon%"
@@ -1042,7 +1042,7 @@ Mobs:
       Weapon:
         - "%player% was slain by a %killer% somehow using %weapon%"
       Melee:
-        - "%player% was slain by a %killer%"
+        - "%player%被%killer%杀死"
     Gang:
       Projectile-Arrow:
         - "%player% was ganged up on by some %killer%! One shot them with %weapon%"
@@ -1057,7 +1057,7 @@ Mobs:
       Weapon:
         - "%player% was slain by a %killer% somehow using %weapon%"
       Melee:
-        - "%player% was slain by a %killer%"
+        - "%player%被%killer%杀死"
     Gang:
       Projectile-Arrow:
         - "%player% was ganged up on by some %killer%! One shot them with %weapon%"
@@ -1072,7 +1072,7 @@ Mobs:
       Weapon:
         - "%player% was slain by a %killer% somehow using %weapon%"
       Melee:
-        - "%player% was slain by a %killer%"
+        - "%player%被%killer%杀死"
     Gang:
       Projectile-Arrow:
         - "%player% was ganged up on by some %killer%! One shot them with %weapon%"
@@ -1089,7 +1089,7 @@ Mobs:
       Weapon:
         - "%player% was slain by a %killer% somehow using %weapon%"
       Melee:
-        - "%player% was slain by a %killer%"
+        - "%player%被%killer%杀死"
     Gang:
       Projectile-Arrow:
         - "%player% was ganged up on by some %killer%! One shot them with %weapon%"
@@ -1104,7 +1104,7 @@ Mobs:
       Weapon:
         - "%player% was slain by a %killer% somehow using %weapon%"
       Melee:
-        - "%player% was slain by a %killer%"
+        - "%player%被%killer%杀死"
     Gang:
       Projectile-Arrow:
         - "%player% was ganged up on by some %killer%! One shot them with %weapon%"
@@ -1119,7 +1119,7 @@ Mobs:
       Weapon:
         - "%player% was slain by a %killer% somehow using %weapon%"
       Melee:
-        - "%player% was slain by a %killer%"
+        - "%player%被%killer%杀死"
     Gang:
       Projectile-Arrow:
         - "%player% was ganged up on by some %killer%! One shot them with %weapon%"
@@ -1134,7 +1134,7 @@ Mobs:
       Weapon:
         - "%player% was slain by a %killer% somehow using %weapon%"
       Melee:
-        - "%player% was slain by a %killer%"
+        - "%player%被%killer%杀死"
     Gang:
       Projectile-Arrow:
         - "%player% was ganged up on by some %killer%! One shot them with %weapon%"
@@ -1149,7 +1149,7 @@ Mobs:
       Weapon:
         - "%player% was slain by a %killer% somehow using %weapon%"
       Melee:
-        - "%player% was slain by a %killer%"
+        - "%player%被%killer%杀死"
     Gang:
       Projectile-Arrow:
         - "%player% was ganged up on by some %killer%! One shot them with %weapon%"
@@ -1179,7 +1179,7 @@ Mobs:
       Weapon:
         - "%player% was slain by a %killer% somehow using %weapon%"
       Melee:
-        - "%player% was slain by a %killer%"
+        - "%player%被%killer%杀死"
     Gang:
       Projectile-Arrow:
         - "%player% was ganged up on by some %killer%! One shot them with %weapon%"
@@ -1194,7 +1194,7 @@ Mobs:
       Weapon:
         - "%player% was slain by a %killer% somehow using %weapon%"
       Melee:
-        - "%player% was slain by a %killer%"
+        - "%player%被%killer%杀死"
     Gang:
       Projectile-Arrow:
         - "%player% was ganged up on by some %killer%! One shot them with %weapon%"
@@ -1209,7 +1209,7 @@ Mobs:
       Weapon:
         - "%player% was slain by a %killer% somehow using %weapon%"
       Melee:
-        - "%player% was slain by a %killer%"
+        - "%player%被%killer%杀死"
     Gang:
       Projectile-Arrow:
         - "%player% was ganged up on by some %killer%! One shot them with %weapon%"
@@ -1224,7 +1224,7 @@ Mobs:
       Weapon:
         - "%player% was slain by a %killer% somehow using %weapon%"
       Melee:
-        - "%player% was slain by a %killer%"
+        - "%player%被%killer%杀死"
     Gang:
       Projectile-Arrow:
         - "%player% was ganged up on by some %killer%! One shot them with %weapon%"
@@ -1239,7 +1239,7 @@ Mobs:
       Weapon:
         - "%player% was slain by a %killer% somehow using %weapon%"
       Melee:
-        - "%player% was slain by a %killer%"
+        - "%player%被%killer%杀死"
     Gang:
       Projectile-Arrow:
         - "%player% was ganged up on by some %killer%! One shot them with %weapon%"
