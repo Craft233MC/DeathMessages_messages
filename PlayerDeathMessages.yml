@@ -148,7 +148,7 @@ Natural-Cause:
   Starvation:
     - "%player%没有吃的了"
   Poison:
-    - "%player%被下毒而亡
+    - "%player%被下毒而亡"
   Magic:
     - "%player%尝试学习魔法"
   Wither:
