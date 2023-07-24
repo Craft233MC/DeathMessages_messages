@@ -4,7 +4,7 @@
 #
 # Entity Death Messages Config
 # This config lets you configure death messages of mobs. (I.E: Enderdragon,
-# a change
+#
 #Placeholders:
 # %killer% - returns the player name
 # %killer_display% - returns the custom display name of the player
@@ -40,33 +40,34 @@
 #Vanilla Entities
 Entities:
   # Below is an example of how this section is setup. You can use any death-type like in PlayerDeathMessages.yml
+  # Below is an example of how this section is setup. You can use any death-type like in PlayerDeathMessages.yml
   wolf:
     Tamed:
-      - "%killer% killed %owner%'s %entity%"
+    - '%killer% killed %owner%''s %entity%'
     Projectile-Arrow:
-      - "%killer% 360'd Y Y'd a poor little doggy using %weapon%"
+    - '%killer% 360''d Y Y''d a poor little doggy using %weapon%'
     Weapon:
-      - "%killer% murdered a dog using %weapon%"
+    - '%killer% murdered a dog using %weapon%'
     Melee:
-      - "%killer% killed a random dog"
+    - '%killer% killed a random dog'
     Void:
-      - "%killer% pushed a random dog into the void"
+    - '%killer% pushed a random dog into the void'
     TNT:
-      - "%killer% blew up a dog!"
+    - '%killer% blew up a dog!'
     Respawn-Anchor:
-      - "%killer% blew up a dog using a respawn-anchor"
+    - '%killer% blew up a dog using a respawn-anchor'
   enderdragon:
     Projectile-Arrow:
-      - "%killer% 360'd Y Y'd the &6&lEnder Dragon &cusing %weapon%"
+    - '%killer% 360''d Y Y''d the &6&lEnder Dragon &cusing %weapon%'
     Melee:
-      - "The Ender Dragon was taken down by %killer%!"
+    - The Ender Dragon was taken down by %killer%!
 
 #Mythic-Mob Entities https://www.spigotmc.org/resources/%E2%9A%94-mythicmobs-free-version-%E2%96%BAthe-1-custom-mob-creator%E2%97%84.5702/
 Mythic-Mobs-Entities:
   SkeletalMinion:
     Melee:
-      - '%killer% killed skele boss %entity_display% with their bare hands'
+    - '%killer% killed skele boss %entity_display% with their bare hands'
     Weapon:
-      - '%killer% destroyed the boss mob %entity_display% with %weapon%'
+    - '%killer% destroyed the boss mob %entity_display% with %weapon%'
     TNT:
-      - '%killer% blew up the boss mob %entity_display% with TNT'
+    - '%killer% blew up the boss mob %entity_display% with TNT'
