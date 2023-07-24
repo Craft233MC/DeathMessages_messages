@@ -78,6 +78,7 @@ Basic-Mode:
       - "%player%被%killer%使用%weapon%杀死"
     Melee:
       - "%player%被%killer%杀死"
+    # Gang的与枪相关，没有加入，可以不管
   Gang:
     Projectile-Arrow:
       - "%player% was shot by a group of %killer%'s using %weapon%"
@@ -137,44 +138,44 @@ Natural-Cause:
   Firework:
     - "%player%认为玩烟火是一个好主意"
   End-Crystal:
-    - "%player% blew up! They were playing around with an end-crystal!"
+    - "%player%被末影水晶伤害"
   Void:
-    - "%player% fell into the void"
+    - "%player%掉入了无尽的虚空"
   Lightning:
-    - "%player% was struck by /lighting"
+    - "%player%似乎发出誓言"
   Suicide:
-    - "%player% killed themselves"
+    - "%player%想不开了"
   Starvation:
-    - "%player% ran out of food, and died"
+    - "%player%没有吃的了"
   Poison:
-    - "%player% was playing with poison"
+    - "%player%被下毒而亡
   Magic:
-    - "%player% was playing with magic"
+    - "%player%尝试学习魔法"
   Wither:
-    - "%player% withered away"
+    - "%player%凋零了"
   Falling-Block:
-    - "%player% was squished by a %block%"
+    - "%player%被%block%压扁了"
   Dragon-Breath:
-    - "%player% died to a lingering dragons breath"
+    - "%player%被末影龙的口水玷污"
   Custom:
-    - "%player% died in a unique way"
+    - "%player%以独特的方式死亡"
   Fly-Into-Wall:
-    - "%player% flew into a wall"
+    - "%player%似乎没有注意前方的墙"
   Hot-Floor:
-    - "%player% was playing on a magma block too long"
+    - "%player%脚被烫熟了"
   Cramming:
-    - "%player% was killed in a heavily populated space"
+    - "%player%被挤的喘不过气"
   Dryout:
-    - "%player% belonged in the water. Not land"
+    - "%player%似乎属于水生动物"
   Freeze:
-    - "%player% did not put their snow suit on before they went to play."
+    - "%player%在雪堆中冻结"
   Unknown:
-    - "%player% died"
+    - "%player%以不明原因死亡"
 Mobs:
   elderguardian:
     Solo:
       Projectile-Arrow:
-        - "%player% was shot by a %killer% somehow using %weapon%"
+        - "%player%被%killer%使用%weapon%用某种方式射杀"
       Weapon:
         - "%player% was slain by a %killer% somehow using %weapon%"
       Melee:
