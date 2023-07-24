@@ -79,7 +79,6 @@ Basic-Mode:
     Melee:
     - '%player%被%killer%杀死'
   # Gang的与枪相关，没有加入，可以不管
-    # Gang的与枪相关，没有加入，可以不管
   Gang:
     Projectile-Arrow:
     - '%player% was shot by a group of %killer%''s using %weapon%'
