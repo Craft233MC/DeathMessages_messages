@@ -178,7 +178,7 @@ Mobs:
       Weapon:
       - '%player%被%killer%使用%weapon%以某种方式杀死'
       Melee:
-      - '%player%被%killer%真实'
+      - '%player%被远古守卫者的光束锁定'
     Gang:
       Projectile-Arrow:
       - '%player% was ganged up on by some %killer%! One shot them with %weapon%'
@@ -193,7 +193,7 @@ Mobs:
       Weapon:
       - '%player% was slain by a %killer% somehow using %weapon%'
       Melee:
-      - '%player%被%killer%杀死'
+      - '%player%被凋零骷髅的毒剑杀死'
     Gang:
       Projectile-Arrow:
       - '%player% was ganged up on by some %killer%! One shot them with %weapon%'
@@ -208,7 +208,7 @@ Mobs:
       Weapon:
       - '%player% was slain by a %killer% somehow using %weapon%'
       Melee:
-      - '%player%被%killer%杀死'
+      - '%player%被流浪者拖住了时间'
     Gang:
       Projectile-Arrow:
       - '%player% was ganged up on by some %killer%! One shot them with %weapon%'
@@ -223,7 +223,7 @@ Mobs:
       Weapon:
       - '%player% was slain by a %killer% somehow using %weapon%'
       Melee:
-      - '%player%被%killer%杀死'
+      - '%player%被尸壳吸干了水分？'
     Gang:
       Projectile-Arrow:
       - '%player% was ganged up on by some %killer%! One shot them with %weapon%'
@@ -238,7 +238,7 @@ Mobs:
       Weapon:
       - '%player% was slain by a %killer% somehow using %weapon%'
       Melee:
-      - '%player%被%killer%杀死'
+      - '%player%被僵尸村民杀死'
     Gang:
       Projectile-Arrow:
       - '%player% was ganged up on by some %killer%! One shot them with %weapon%'
@@ -253,7 +253,7 @@ Mobs:
       Weapon:
       - '%player% was slain by a %killer% somehow using %weapon%'
       Melee:
-      - '%player%被%killer%杀死'
+      - '%player%被骷髅马杀死？？？'
     Gang:
       Projectile-Arrow:
       - '%player% was ganged up on by some %killer%! One shot them with %weapon%'
@@ -268,7 +268,7 @@ Mobs:
       Weapon:
       - '%player% was slain by a %killer% somehow using %weapon%'
       Melee:
-      - '%player%被%killer%杀死'
+      - '%player%被僵尸马杀死？？？'
     Gang:
       Projectile-Arrow:
       - '%player% was ganged up on by some %killer%! One shot them with %weapon%'
@@ -283,7 +283,7 @@ Mobs:
       Weapon:
       - '%player% was slain by a %killer% somehow using %weapon%'
       Melee:
-      - '%player%被%killer%杀死'
+      - '%player%被%盔甲架杀死？？？'
     Gang:
       Projectile-Arrow:
       - '%player% was ganged up on by some %killer%! One shot them with %weapon%'
@@ -298,7 +298,7 @@ Mobs:
       Weapon:
       - '%player% was slain by a %killer% somehow using %weapon%'
       Melee:
-      - '%player%被%killer%杀死'
+      - '%player%被驴杀死。。。'
     Gang:
       Projectile-Arrow:
       - '%player% was ganged up on by some %killer%! One shot them with %weapon%'
@@ -313,7 +313,7 @@ Mobs:
       Weapon:
       - '%player% was slain by a %killer% somehow using %weapon%'
       Melee:
-      - '%player%被%killer%杀死'
+      - '%player%被骡杀死。。。'
     Gang:
       Projectile-Arrow:
       - '%player% was ganged up on by some %killer%! One shot them with %weapon%'
@@ -330,7 +330,7 @@ Mobs:
       Weapon:
       - '%player% was slain by a %killer% somehow using %weapon%'
       Melee:
-      - '%player%被%killer%杀死'
+      - '%player%见识了幻魔者的魔法'
     Gang:
       Projectile-Arrow:
       - '%player% was ganged up on by some %killer%! One shot them with %weapon%'
@@ -345,7 +345,7 @@ Mobs:
       Weapon:
       - '%player% was slain by a %killer% somehow using %weapon%'
       Melee:
-      - '%player%被%killer%杀死'
+      - '%player%被恼鬼所烦恼（恼'
     Gang:
       Projectile-Arrow:
       - '%player% was ganged up on by some %killer%! One shot them with %weapon%'
@@ -360,7 +360,7 @@ Mobs:
       Weapon:
       - '%player% was slain by a %killer% somehow using %weapon%'
       Melee:
-      - '%player%被%killer%杀死'
+      - '%player%被卫道士杀死'
     Gang:
       Projectile-Arrow:
       - '%player% was ganged up on by some %killer%! One shot them with %weapon%'
@@ -375,7 +375,7 @@ Mobs:
       Weapon:
       - '%player% was slain by a %killer% somehow using %weapon%'
       Melee:
-      - '%player%被%killer%杀死'
+      - '%player%被幻术师杀死'
     Gang:
       Projectile-Arrow:
       - '%player% was ganged up on by some %killer%! One shot them with %weapon%'
@@ -390,7 +390,7 @@ Mobs:
       Weapon:
       - '%player% was slain by a %killer% somehow using %weapon%'
       Explosion:
-      - '%player%尝试与%killer%贴贴'
+      - '%player%尝试与苦力怕贴贴'
       Melee:
       - '%player%被%killer%杀死'
     Gang:
@@ -403,7 +403,7 @@ Mobs:
   skeleton:
     Solo:
       Projectile-Arrow:
-      - '%player% 被 %killer% 使用 %weapon% 射杀'
+      - '%player% 被骷髅使用箭矢射杀'
       Weapon:
       - '%player% was slain by a %killer% somehow using %weapon%'
       Melee:
@@ -422,7 +422,7 @@ Mobs:
       Weapon:
       - '%player% was slain by a %killer% somehow using %weapon%'
       Melee:
-      - '%player%被%killer%缠住'
+      - '%player%被蜘蛛缠住'
     Gang:
       Projectile-Arrow:
       - '%player% was ganged up on by some %killer%! One shot them with %weapon%'
@@ -437,7 +437,7 @@ Mobs:
       Weapon:
       - '%player% was slain by a %killer% somehow using %weapon%'
       Melee:
-      - '%player%被%killer%压扁'
+      - '%player%被巨人压扁'
     Gang:
       Projectile-Arrow:
       - '%player% was ganged up on by some %killer%! One shot them with %weapon%'
@@ -452,7 +452,7 @@ Mobs:
       Weapon:
       - '%player% was slain by a %killer% somehow using %weapon%'
       Melee:
-      - '%killer%的按摩对于%player%似乎有点重'
+      - '僵尸的按摩对于%player%似乎有点重'
     Gang:
       Projectile-Arrow:
       - '%player% was ganged up on by some %killer%! One shot them with %weapon%'
@@ -467,7 +467,7 @@ Mobs:
       Weapon:
       - '%player% was slain by a %killer% somehow using %weapon%'
       Melee:
-      - '%player%尝试大战%killer%'
+      - '%player%尝试大战史莱姆'
     Gang:
       Projectile-Arrow:
       - '%player% was ganged up on by some %killer%! One shot them with %weapon%'
@@ -482,7 +482,7 @@ Mobs:
       Weapon:
       - '%player% was slain by a %killer% somehow using %weapon%'
       Melee:
-      - '%player%被%killer%杀死'
+      - '%player%被恶魂烦恼'
     Gang:
       Projectile-Arrow:
       - '%player% was ganged up on by some %killer%! One shot them with %weapon%'
@@ -497,7 +497,7 @@ Mobs:
       Weapon:
       - '%player% was slain by a %killer% somehow using %weapon%'
       Melee:
-      - '%player%被%killer%杀死'
+      - '%player%被僵尸猪灵杀死'
     Gang:
       Projectile-Arrow:
       - '%player% was ganged up on by some %killer%! One shot them with %weapon%'
@@ -512,7 +512,7 @@ Mobs:
       Weapon:
       - '%player% was slain by a %killer% somehow using %weapon%'
       Melee:
-      - '%player%被%killer%杀死'
+      - '%player%惹恼了末影人'
     Gang:
       Projectile-Arrow:
       - '%player% was ganged up on by some %killer%! One shot them with %weapon%'
@@ -527,7 +527,7 @@ Mobs:
       Weapon:
       - '%player% was slain by a %killer% somehow using %weapon%'
       Melee:
-      - '%player%被%killer%杀死'
+      - '%player%被洞穴蜘蛛下毒'
     Gang:
       Projectile-Arrow:
       - '%player% was ganged up on by some %killer%! One shot them with %weapon%'
@@ -542,7 +542,7 @@ Mobs:
       Weapon:
       - '%player% was slain by a %killer% somehow using %weapon%'
       Melee:
-      - '%player%被%killer%杀死'
+      - '%player%被蠹虫困扰'
     Gang:
       Projectile-Arrow:
       - '%player% was ganged up on by some %killer%! One shot them with %weapon%'
@@ -557,7 +557,7 @@ Mobs:
       Weapon:
       - '%player% was slain by a %killer% somehow using %weapon%'
       Melee:
-      - '%player%被%killer%杀死'
+      - '%player%因烈焰人着火'
     Gang:
       Projectile-Arrow:
       - '%player% was ganged up on by some %killer%! One shot them with %weapon%'
@@ -572,7 +572,7 @@ Mobs:
       Weapon:
       - '%player% was slain by a %killer% somehow using %weapon%'
       Melee:
-      - '%player%被%killer%杀死'
+      - '%player%认为岩浆怪烫手'
     Gang:
       Projectile-Arrow:
       - '%player% was ganged up on by some %killer%! One shot them with %weapon%'
@@ -587,7 +587,7 @@ Mobs:
       Weapon:
       - '%player% was slain by a %killer% somehow using %weapon%'
       Melee:
-      - '%player%被%killer%杀死'
+      - '%player%因末影龙的龙息中毒'
     Gang:
       Projectile-Arrow:
       - '%player% was ganged up on by some %killer%! One shot them with %weapon%'
@@ -602,11 +602,11 @@ Mobs:
       Weapon:
       - '%player% was slain by a %killer% somehow using %weapon%'
       Explosion:
-      - '%player% stood too close to a %killer% while it was spawning'
+      - '%player%打扰了凋零的进化'
       Projectile-Fireball:
-      - '%player% died to a wither skull'
+      - '%player%被凋零的头颅砸伤'
       Melee:
-      - '%player%被%killer%杀死'
+      - '%player%被凋零杀死'
     Gang:
       Projectile-Arrow:
       - '%player% was ganged up on by some %killer%! One shot them with %weapon%'
@@ -621,7 +621,7 @@ Mobs:
       Weapon:
       - '%player% was slain by a %killer% somehow using %weapon%'
       Melee:
-      - '%player%被%killer%杀死'
+      - '%player%被蝙蝠杀死'
     Gang:
       Projectile-Arrow:
       - '%player% was ganged up on by some %killer%! One shot them with %weapon%'
@@ -636,7 +636,7 @@ Mobs:
       Weapon:
       - '%player% was slain by a %killer% somehow using %weapon%'
       Melee:
-      - '%player%被%killer%杀死'
+      - '%player%被女巫的毒药杀死'
     Gang:
       Projectile-Arrow:
       - '%player% was ganged up on by some %killer%! One shot them with %weapon%'
@@ -651,7 +651,7 @@ Mobs:
       Weapon:
       - '%player% was slain by a %killer% somehow using %weapon%'
       Melee:
-      - '%player%被%killer%杀死'
+      - '%player%被末影螨杀死'
     Gang:
       Projectile-Arrow:
       - '%player% was ganged up on by some %killer%! One shot them with %weapon%'
@@ -666,7 +666,7 @@ Mobs:
       Weapon:
       - '%player% was slain by a %killer% somehow using %weapon%'
       Melee:
-      - '%player%被%killer%杀死'
+      - '%player%被守卫者的光束锁定'
     Gang:
       Projectile-Arrow:
       - '%player% was ganged up on by some %killer%! One shot them with %weapon%'
@@ -681,7 +681,7 @@ Mobs:
       Weapon:
       - '%player% was slain by a %killer% somehow using %weapon%'
       Melee:
-      - '%player%被%killer%杀死'
+      - '%player%被潜影贝的导弹杀死'
     Gang:
       Projectile-Arrow:
       - '%player% was ganged up on by some %killer%! One shot them with %weapon%'
@@ -771,7 +771,7 @@ Mobs:
       Weapon:
       - '%player% was slain by a %killer% somehow using %weapon%'
       Melee:
-      - '%player%被%killer%杀死'
+      - '%player%被狼杀死'
     Gang:
       Projectile-Arrow:
       - '%player% was ganged up on by some %killer%! One shot them with %weapon%'
@@ -831,7 +831,7 @@ Mobs:
       Weapon:
       - '%player% was slain by a %killer% somehow using %weapon%'
       Melee:
-      - '%player%被%killer%杀死'
+      - '%player%被铁傀儡举高高'
     Gang:
       Projectile-Arrow:
       - '%player% was ganged up on by some %killer%! One shot them with %weapon%'
@@ -876,7 +876,7 @@ Mobs:
       Weapon:
       - '%player% was slain by a %killer% somehow using %weapon%'
       Melee:
-      - '%player%被%killer%杀死'
+      - '%player%激怒了北极熊'
     Gang:
       Projectile-Arrow:
       - '%player% was ganged up on by some %killer%! One shot them with %weapon%'
@@ -891,7 +891,7 @@ Mobs:
       Weapon:
       - '%player% was slain by a %killer% somehow using %weapon%'
       Melee:
-      - '%player%被%killer%杀死'
+      - '%player%被羊驼的口水杀死......'
     Gang:
       Projectile-Arrow:
       - '%player% was ganged up on by some %killer%! One shot them with %weapon%'
@@ -951,7 +951,7 @@ Mobs:
       Weapon:
       - '%player% was slain by a %killer% somehow using %weapon%'
       Melee:
-      - '%player%被%killer%杀死'
+      - '%player%长时间不睡觉出现了幻觉'
     Gang:
       Projectile-Arrow:
       - '%player% was ganged up on by some %killer%! One shot them with %weapon%'
@@ -996,7 +996,7 @@ Mobs:
       Weapon:
       - '%player% was slain by a %killer% somehow using %weapon%'
       Melee:
-      - '%player%被%killer%杀死'
+      - '%player%被河豚刺伤'
     Gang:
       Projectile-Arrow:
       - '%player% was ganged up on by some %killer%! One shot them with %weapon%'
@@ -1026,7 +1026,7 @@ Mobs:
       Weapon:
       - '%player% was slain by a %killer% somehow using %weapon%'
       Melee:
-      - '%player%被%killer%杀死'
+      - '%player%被溺尸杀死'
     Gang:
       Projectile-Arrow:
       - '%player% was ganged up on by some %killer%! One shot them with %weapon%'
@@ -1041,7 +1041,7 @@ Mobs:
       Weapon:
       - '%player% was slain by a %killer% somehow using %weapon%'
       Melee:
-      - '%player%被%killer%杀死'
+      - '%player%挑衅了海豚'
     Gang:
       Projectile-Arrow:
       - '%player% was ganged up on by some %killer%! One shot them with %weapon%'
@@ -1082,13 +1082,13 @@ Mobs:
   pillager:
     Solo:
       Contact:
-      - '%player% was pushed into a cactus by %killer%'
+      - '%player%被掠夺者射穿'
       Projectile-Arrow:
       - '%player% was shot by a %killer% somehow using %weapon%'
       Weapon:
       - '%player% was slain by a %killer% somehow using %weapon%'
       Melee:
-      - '%player%被%killer%杀死'
+      - '%player%被掠夺者杀死'
     Gang:
       Projectile-Arrow:
       - '%player% was ganged up on by some %killer%! One shot them with %weapon%'
@@ -1103,7 +1103,7 @@ Mobs:
       Weapon:
       - '%player% was slain by a %killer% somehow using %weapon%'
       Melee:
-      - '%player%被%killer%杀死'
+      - '%player%被掠夺兽顶撞'
     Gang:
       Projectile-Arrow:
       - '%player% was ganged up on by some %killer%! One shot them with %weapon%'
@@ -1118,7 +1118,7 @@ Mobs:
       Weapon:
       - '%player% was slain by a %killer% somehow using %weapon%'
       Melee:
-      - '%player%被%killer%杀死'
+      - '%player%被行商羊驼吐口水...'
     Gang:
       Projectile-Arrow:
       - '%player% was ganged up on by some %killer%! One shot them with %weapon%'
@@ -1163,7 +1163,7 @@ Mobs:
       Weapon:
       - '%player% was stung by a %killer% somehow using %weapon%'
       Melee:
-      - '%player% was stung by a %killer%'
+      - '%player%惹怒了蜜蜂'
     Gang:
       Projectile-Arrow:
       - '%player% was ganged up on by some %killer%! One shot them with %weapon%'
@@ -1178,7 +1178,7 @@ Mobs:
       Weapon:
       - '%player% was slain by a %killer% somehow using %weapon%'
       Melee:
-      - '%player%被%killer%杀死'
+      - '%player%被疣猪兽惹事'
     Gang:
       Projectile-Arrow:
       - '%player% was ganged up on by some %killer%! One shot them with %weapon%'
@@ -1189,11 +1189,11 @@ Mobs:
   piglin:
     Solo:
       Projectile-Arrow:
-      - '%player% was shot by a %killer% somehow using %weapon%'
+      - '%player%被猪灵使用箭矢射穿'
       Weapon:
-      - '%player% was slain by a %killer% somehow using %weapon%'
+      - '%player%尝试与猪灵近战'
       Melee:
-      - '%player%被%killer%杀死'
+      - '%player%被猪灵杀死'
     Gang:
       Projectile-Arrow:
       - '%player% was ganged up on by some %killer%! One shot them with %weapon%'
@@ -1223,7 +1223,7 @@ Mobs:
       Weapon:
       - '%player% was slain by a %killer% somehow using %weapon%'
       Melee:
-      - '%player%被%killer%杀死'
+      - '%player%被僵尸疣猪兽杀死'
     Gang:
       Projectile-Arrow:
       - '%player% was ganged up on by some %killer%! One shot them with %weapon%'
@@ -1236,9 +1236,9 @@ Mobs:
       Projectile-Arrow:
       - '%player% was shot by a %killer% somehow using %weapon%'
       Weapon:
-      - '%player% was slain by a %killer% somehow using %weapon%'
+      - '%player%被猪灵蛮兵的斧头砍伤'
       Melee:
-      - '%player%被%killer%杀死'
+      - '%player%被猪灵蛮兵杀死'
     Gang:
       Projectile-Arrow:
       - '%player% was ganged up on by some %killer%! One shot them with %weapon%'
@@ -1253,39 +1253,39 @@ Mobs:
       Respawn-Anchor:
       - '%player% stood too close to %killer%''s respawn anchor in the %world_environment%'
       Contact:
-      - '%player% was pushed into a cactus by %killer%'
+      - '%player%被%killer%的箭射成了筛子'
       Projectile-Unknown:
-      - '%player% was shot by %killer%'
+      - '%player%被%killer%杀死'
       Projectile-Arrow:
-      - '%player% was shot by %killer% somehow using %weapon%'
+      - '%player%被%killer%使用%weapon%射穿'
       Projectile-Fireball:
-      - '%player% was fireballed by %killer%'
+      - '%player%被%killer%的火球？'
       Projectile-Snowball:
-      - '%player% was hit in the head with a snowball thrown by %killer%'
+      - '%player%被%killer%的雪球砸伤'
       Weapon:
-      - '%player% was slain by %killer% somehow using %weapon%'
+      - '%player%被%killer%使用%weapon%杀死'
       Melee:
-      - '%player% was slain by %killer%'
+      - '%player%被%killer%杀死'
       Suffocation:
-      - '%player% suffocated in a wall while fighting %killer_display%'
+      - '%player%战斗时窒息在墙上%killer_display%'
       Fall:
-      - '%player% was pushed off a high place by %killer%'
+      - '%player%被%killer%从高处推下'
       Lava:
-      - '%player% was pushed into lava by %killer%'
+      - '%player%被%killer%倒下的岩浆烫伤'
       Explosion:
-      - '%killer% blew up %player%'
+      - '%killer%让%player%爆炸了'
       TNT:
-      - '%killer% blew up %player% with tnt'
+      - '%killer%给%player%点燃了TNT'
       Firework:
-      - '%player% stood too close to %killer%''s fireworks'
+      - '%player%靠近了%killer%的火球'
       End-Crystal:
-      - '%killer% killed %player% by blowing up an end-crystal!'
+      - '%player%被%killer%的末影珍珠砸伤!'
       Void:
-      - '%player% was pushed into the void by %killer%'
+      - '%player%被%killer%推入了无尽的虚空'
       Wither:
-      - '%player% withered away from %killer%''s magic'
+      - '%killer%的魔法让%player%凋零'
       Thorns:
-      - '%player% tried playing with %killer%''s armor with thorns'
+      - '%player%被%killer%的盔甲刺伤'
       # Hook related deaths
       # Hook related deaths
       CombatLogX-Kill:
@@ -1300,16 +1300,16 @@ Mobs:
   goat:
     Solo:
       Melee:
-      - '%player% was knocked by a %killer%'
+      - '%player%被山羊顶撞'
     Gang:
       Melee:
       - '%player% was knocked by a bunch of %killer%''s'
   warden:
     Solo:
       Melee:
-      - '%player% was slain by %killer%'
+      - '%player%被监守者杀死'
       Sonic-Boom:
-      - '%player% was obliterated by a sonically-charged shriek'
+      - '%player%被监守者的光波击中'
     Gang:
       Melee:
       - '%player% was slain by a bunch of %killer%''s'
